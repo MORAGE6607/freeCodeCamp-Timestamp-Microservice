@@ -9,3 +9,6 @@ This project involves building a full-stack JavaScript Timestamp Microservice th
   - Completed handling of Unix timestamps in milliseconds
   - Completed response format for invalid dates
   - Completed current time response for empty date parameters
+
+--
+📄 License: This project is completed for educational purposes under the FreeCodeCamp curriculum.
